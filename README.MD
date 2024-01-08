@@ -23,7 +23,7 @@ sudo docker-compose --version
 ```
 3- Clonar el repositorio
 ```
-sudo git clone https://github.com/yamir84/emqx-docker.git
+sudo git clone https://github.com/JoseBalbuena181096/DOCKER_SMARTLABS.git
 ```
 4- Entrar a la carpeta descargada
 ```
