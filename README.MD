@@ -1,6 +1,7 @@
 # EMQX CON DOCKER 
 ## Crear nuestro servicio de mqtt desde docker compose.
 
+Este repo contiene el docker compose, el cual inicializa tres contenedores necesarios para arrancar smartlabs, mariadb y un script para arrancar la base de datos, tablas, vistas y accesos; un segundo contenedor con phpmyadmin para poder configurar algún detalle de la base de datos y un tercer contenedor que es el corazón de nuestro sistema, el broker de mqtt emqx en su version 4.4.19 el es encargado de comunicar por websockets y mqtt todos nuestros servicios y dispositivos. 
 ### Instalar los servicios.
 
 1- Instalar docker en Ubuntu, página oficial de Docker
