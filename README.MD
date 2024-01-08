@@ -1,5 +1,4 @@
-# EMQX CON DOCKER - IOTHOST.ORG
-
+# EMQX CON DOCKER 
 ## Crear nuestro servicio de mqtt desde docker compose.
 
 ### Instalar los servicios.
